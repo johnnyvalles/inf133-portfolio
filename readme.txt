@@ -41,7 +41,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. How long, in hours, did it take you to complete this assignment?
-5 hours
+6 hours
 
 
 
