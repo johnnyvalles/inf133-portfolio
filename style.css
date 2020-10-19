@@ -117,3 +117,7 @@ a.social-link {
     background-color: #dfe6e9;
     border-radius: 10px;
 }
+
+.projects-container .card-text {
+    font-family: "Merriweather", 'Times New Roman', Times, serif; 
+}
