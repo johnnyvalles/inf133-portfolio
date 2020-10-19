@@ -11,39 +11,51 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+- links to external pages
+- images for the landing page and jumbotrons
+- semantic HTML tags (e.g. nav, main, section)
+- custom icons from Font Awesome
 
 
 (b) CSS features
-
+- added custom Google fonts
+- modified padding & margin
+- use CSS psuedo classes & elements
+- used bootstrap 4 to create a responsive layout
 
 
 (c) Advanced features
-
+- used CSS nested selectors to specify how content should be styled
+- added a contact form (Submit's a GET request so that the parameters are appended to the URL string)
 
 
 3. How long, in hours, did it take you to complete this assignment?
+5 hours
 
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
+- stack overflow
+- bootstrap 4 documentation
+- mozilla development network
+- w3c validators
 
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I talked with Greg Zubatov about the design and layout of my site. We occsionally interchanged short videos of our site showcasing our designs on Discord.
 
 
 6. Is there anything special we need to know in order to run your code?
-
+N/A
