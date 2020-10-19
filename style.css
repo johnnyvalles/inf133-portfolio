@@ -1,0 +1,119 @@
+.main-title, .navbar {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.navbar .nav-link {
+    color: #000 !important;
+}
+
+.jumbotron {
+    margin: 56px 0 0 0;
+}
+
+.jumbotron .container {
+    padding: 2rem 0;
+}
+
+.jumbotron-landing {
+    height: calc(100vh - 56px);
+    display: flex;
+    align-items: center;
+    background-image: url("./images/bg1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    position: relative;
+    color: #fff !important;
+}
+
+.jumbotron-landing::after {
+	content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.jumbotron-landing .container {
+    z-index: 10;
+    color: #fff;
+}
+
+.jumbotron-landing .container hr {
+    background: #fff;
+}
+
+.bio-intro {
+    font-family: "Merriweather", 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.animoji {
+    border-radius: 100%;
+    border: none;
+    height: 200px;
+    background: none;
+    display: block;
+    margin: 0 auto;
+}
+
+a.social-link {
+    color: #fff !important;
+}
+
+.projects-jumbotron {
+    background-image: url("./images/code.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    position: relative;
+    color: #fff !important;
+}
+
+.projects-jumbotron::after {
+    content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.projects-jumbotron .container {
+    z-index: 100;
+    position: relative;
+}
+
+
+.contact-jumbotron {
+    background-image: url("./images/contact.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    position: relative;
+    color: #fff !important;
+}
+
+.contact-jumbotron::after {
+    content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.contact-jumbotron .container {
+    z-index: 100;
+    position: relative;
+}
+
+#contact {
+    background-color: #dfe6e9;
+    border-radius: 10px;
+}
