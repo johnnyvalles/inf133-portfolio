@@ -64,6 +64,30 @@ a.social-link {
     color: #fff !important;
 }
 
+.about-jumbotron {
+    background-image: url("./images/about.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    position: relative;
+    color: #fff !important;
+}
+
+.about-jumbotron::after {
+    content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.about-jumbotron .container {
+    z-index: 100;
+    position: relative;
+}
+
 .projects-jumbotron {
     background-image: url("./images/code.jpg");
 	background-size: cover;
