@@ -114,11 +114,22 @@ a.social-link {
 }
 
 #contact {
-    background-color: #2f3640;
-    color: #fff;
+    background-color: #bdc3c7;
     border-radius: 10px;
 }
 
 .projects-container .card-text {
     font-family: "Merriweather", 'Times New Roman', Times, serif; 
+}
+
+footer {
+    background: #2f3640;
+    color: #fff;
+    padding: 2.5rem 0;
+    text-align: center;
+}
+
+footer p {
+    padding: 0;
+    margin: 0;
 }
