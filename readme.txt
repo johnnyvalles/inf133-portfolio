@@ -47,14 +47,14 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 - stack overflow
-- bootstrap 4 documentation
-- mozilla development network
-- w3c validators
+- bootstrap 4 documentation (https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+- mozilla development network (https://developer.mozilla.org/en-US/docs/Web/HTML)
+- w3c validators (taken from resources on course site)
 
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-I talked with Greg Zubatov about the design and layout of my site. We occsionally interchanged short videos of our site showcasing our designs on Discord.
+I talked with Greg Zubatov about the design and layout of my site. We occasionally interchanged short videos of our site showcasing our designs on Discord.
 
 
 6. Is there anything special we need to know in order to run your code?
